@@ -12,4 +12,4 @@ The above project was performed in python language over compiler of version 2.7.
 The most important component of this project was open source tool  "OpenCV" version 2.4.13.
 You will also need to import Pillow.
 # Possible errors 
-There might be some technical difficulties that you all may face so I have tried to collect those difficulties that i have faced in the file named "error&soln.txt"  which also contains the solution of those errors.  
+There might be some technical difficulties (like in the installation of numpy or python) that you all may face so  just mail the error(how so ever trivial error may be) to my mail id: "ay70415" +"@gmail.com" . Just join them (Did this for security purpose from web crawlers)  
